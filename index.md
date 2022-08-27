@@ -6,9 +6,8 @@ The previous sentence is true!
 
 ### smallER Title
 
-Syntax highlighted code block? Awesome!
-
 "The best programming language Java is." - Yoda, The Return of the Porgs
+
 "I disagree." - Sun Tsu, The Art of War
 
 ```markdown
