@@ -1,3 +1,10 @@
+# Neel Sarathy's First CS193 Homoework
+
+- Favorite things about CS193
+- No exams
+- Fun hw
+- awesome faculty
+
 ## BIG Title
 
 The next sentence is false.
