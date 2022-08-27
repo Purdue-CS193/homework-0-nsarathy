@@ -1,4 +1,4 @@
-# Neel Sarathy's First CS193 Homoework
+# Neel Sarathy's First CS193 Homework
 
 - Favorite things about CS193
 - No exams
