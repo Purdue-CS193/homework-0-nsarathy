@@ -4,6 +4,7 @@
 - No exams
 - Fun hw
 - awesome faculty
+- FYI I have mentioned my preferred first name, if that doesn't work it's Neelesh Sarathy
 
 ## BIG Title
 
